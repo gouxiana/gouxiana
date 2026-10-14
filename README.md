@@ -1,12 +1,11 @@
 <div align="center">
   <img src="./assets/banner.jpg" alt="Purple fantasy banner" width="100%" />
-  <br /><br /><br />
-  <img src="./assets/github-avatar.jpg" width="132" alt="Zishuo Pang avatar" />
-  <br /><br />
+  <br />
   <h1><font color="#8B5CF6">Hi, I'm Zishuo Pang.</font></h1>
   <p><strong>Unity · VR · Game Interaction · AIGC</strong></p>
   <p>I make interactive projects, visual experiments, and prototypes that are easy to understand and fun to try.</p>
-  <p><a href="./README.zh-CN.md"><font color="#8B5CF6">中文对照</font></a></p>
+  <img src="./assets/github-avatar.jpg" width="132" alt="Zishuo Pang avatar" />
+  <br /><br />
 </div>
 
 <div align="center">
