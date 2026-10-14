@@ -3,7 +3,7 @@
   <br />
   <h1><font color="#8B5CF6">Hi, I'm Zishuo Pang.</font></h1>
   <p><strong>Unity · VR · Game Interaction · AIGC</strong></p>
-  <p>I make interactive projects, visual experiments, and prototypes that are easy to understand and fun to try.</p>
+  <p>Game and interactive media enthusiast exploring Unity, VR, gameplay systems, coding, AIGC, and many other creative fields.</p>
   <img src="./assets/github-avatar.jpg" width="132" alt="Zishuo Pang avatar" />
   <br /><br />
 </div>
