@@ -10,8 +10,8 @@
 </div>
 
 <div align="center">
-  <a href="mailto:pangzishuo2004@163.com"><img src="https://img.shields.io/badge/Email-pangzishuo2004%40163.com-7C3AED?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/gouxiana"><img src="https://img.shields.io/badge/GitHub-gouxiana-E9D5FF?style=for-the-badge&logo=github&logoColor=4C1D95" alt="GitHub" /></a>
+  <a href="mailto:pangzishuo2004@163.com"><img src="https://img.shields.io/badge/Email-pangzishuo2004%40163.com-E9D5FF?style=for-the-badge&labelColor=4C1D95&logo=minutemailer&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/gouxiana"><img src="https://img.shields.io/badge/GitHub-gouxiana-E9D5FF?style=for-the-badge&labelColor=4C1D95&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <h2><font color="#8B5CF6">About</font></h2>
@@ -77,24 +77,24 @@ My work moves between Unity games, VR interaction, 3D assets, generative image r
 
 <p><font color="#A855F7"><strong>Game &amp; Interaction</strong></font></p>
 <div align="center"><table><tr>
-  <td align="center"><img src="./assets/icons/unity.svg" height="44" alt="Unity" /><br /><sub>Unity</sub></td>
+  <td align="center"><img src="./assets/icons/unity.png" height="44" alt="Unity" /><br /><sub>Unity</sub></td>
   <td align="center"><img src="./assets/icons/csharp.svg" height="44" alt="C Sharp" /><br /><sub>C#</sub></td>
   <td align="center"><img src="./assets/icons/meta.svg" height="44" alt="Meta Quest" /><br /><sub>Meta Quest</sub></td>
-  <td align="center"><img src="./assets/icons/git.svg" height="44" alt="Git" /><br /><sub>Git</sub></td>
+  <td align="center"><img src="./assets/icons/git.png" height="44" alt="Git" /><br /><sub>Git</sub></td>
 </tr></table></div>
 
 <p><font color="#A855F7"><strong>3D &amp; Modeling</strong></font></p>
 <div align="center"><table><tr>
-  <td align="center"><img src="./assets/icons/maya.svg" height="44" alt="Maya" /><br /><sub>Maya</sub></td>
-  <td align="center"><img src="./assets/icons/3ds-max.svg" height="44" alt="3ds Max" /><br /><sub>3ds Max</sub></td>
-  <td align="center"><img src="./assets/icons/substance-painter.svg" height="44" alt="Substance 3D Painter" /><br /><sub>Substance 3D Painter</sub></td>
-  <td align="center"><img src="./assets/icons/solidworks.svg" height="44" alt="SolidWorks" /><br /><sub>SolidWorks</sub></td>
-  <td align="center"><img src="./assets/icons/marmoset-toolbag.svg" height="44" alt="Marmoset Toolbag" /><br /><sub>Marmoset Toolbag</sub></td>
+  <td align="center"><img src="./assets/icons/maya.png" height="44" alt="Maya" /><br /><sub>Maya</sub></td>
+  <td align="center"><img src="./assets/icons/3ds-max.png" height="44" alt="3ds Max" /><br /><sub>3ds Max</sub></td>
+  <td align="center"><img src="./assets/icons/substance-painter.png" height="44" alt="Substance 3D Painter" /><br /><sub>Substance 3D Painter</sub></td>
+  <td align="center"><img src="./assets/icons/solidworks.png" height="44" alt="SolidWorks" /><br /><sub>SolidWorks</sub></td>
+  <td align="center"><img src="./assets/icons/marmoset-toolbag.png" height="44" alt="Marmoset Toolbag" /><br /><sub>Marmoset Toolbag</sub></td>
 </tr></table></div>
 
 <p><font color="#A855F7"><strong>Visual &amp; Content Production</strong></font></p>
 <div align="center"><table><tr>
-  <td align="center"><img src="./assets/icons/photoshop.svg" height="44" alt="Photoshop" /><br /><sub>Photoshop</sub></td>
+  <td align="center"><img src="./assets/icons/photoshop.png" height="44" alt="Photoshop" /><br /><sub>Photoshop</sub></td>
   <td align="center"><img src="./assets/icons/capcut.svg" height="44" alt="CapCut" /><br /><sub>CapCut · 剪映</sub></td>
   <td align="center"><img src="./assets/icons/canva.svg" height="44" alt="Canva" /><br /><sub>Canva · 可画</sub></td>
   <td align="center"><img src="./assets/icons/xiumi.svg" height="44" alt="Xiumi" /><br /><sub>Xiumi · 秀米</sub></td>
@@ -111,6 +111,6 @@ My work moves between Unity games, VR interaction, 3D assets, generative image r
 <h2><font color="#8B5CF6">Contact</font></h2>
 
 <div align="center">
-  <a href="mailto:pangzishuo2004@163.com"><img src="https://img.shields.io/badge/Email-pangzishuo2004%40163.com-7C3AED?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/gouxiana"><img src="https://img.shields.io/badge/GitHub-gouxiana-E9D5FF?style=for-the-badge&logo=github&logoColor=4C1D95" alt="GitHub" /></a>
+  <a href="mailto:pangzishuo2004@163.com"><img src="https://img.shields.io/badge/Email-pangzishuo2004%40163.com-E9D5FF?style=for-the-badge&labelColor=4C1D95&logo=minutemailer&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/gouxiana"><img src="https://img.shields.io/badge/GitHub-gouxiana-E9D5FF?style=for-the-badge&labelColor=4C1D95&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
